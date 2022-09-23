@@ -1,3 +1,30 @@
 # TVBOX 
-### 下载地址
 ## 自用源
+## https://maoyingshi.cc/tvbox/云星日记/1.m3u8	家庭版纯绿色，电影电视剧综艺等	公众号【云星日记】	是
+## https://maoyingshi.cc/tvbox/云星日记/ali.m3u8	阿里套餐/推送磁力小纸条等	公众号【云星日记】	是
+## https://maoyingshi.cc/tvbox/云星日记/bili.json	哔哩套餐/演唱会/戏曲/学堂等	公众号【云星日记】	是
+## http://刚刚.live/猫	内涵多条线路/持续维护	刚佬（刚刚）	是
+## http://miaotvs.cn/osc	内涵多条线路/持续维护	☀️太阳	是
+## https://神器每日推送.tk/pz.json	内涵多条线路/持续维护	🤪神器推送	是
+## https://box.okeybox.top/tv/0xth.json	内涵多条线路/持续维护	👱懒人①	是
+## http://js.134584.xyz/json/pp87.json	内涵多条线路/持续维护	🖥影视酷	是
+## https://freed.yuanhsing.cf/TVBox/meowcf.json	内涵多条线路/持续维护	🍆CH猫友️	是
+## https://download.kstore.space/download/2863/01.txt	内涵多条线路/持续维护	🕺潇洒️	是
+## https://dxawi.github.io/0/0.json	内涵多条线路/持续维护	🥦dxawi/github️	是
+## https://agit.ai/n/b/raw/branch/a/b/c.json	内涵多条线路/持续维护	🍅agit/branch️	是
+## https://liu673cn.github.io/box/m.json	内涵多条线路/持续维护	待认领	是
+## https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/7edjt.json	内涵多条线路/持续维护	待认领	是
+## https://raw.iqiq.io/liu673cn/box/main/m.json	内涵多条线路/持续维护	🍸老刘备	是
+## http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0	内涵多条线路/持续维护	🌙月光宝盒	是
+## https://0a.fit/7777	内涵多条线路/持续维护	⑦777	是
+## http://47.242.90.42:8888/down/BJZPa8THuiE9	内涵多条线路/持续维护	☀️星辰	是
+## https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json	内涵多条线路/持续维护	待认领	是
+## https://wds.ecsxs.com/223843.txt	内涵多条线路/持续维护	待认领	是
+## https://freed.yuanhsing.cf/TVBox/meowcf.json	内涵多条线路/持续维护	待认领	是
+## https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json	内涵多条线路/持续维护	待认领	是
+## https://dxawi.github.io/0/0.json	内涵多条线路/持续维护	待认领	是
+## https://freed.yuanhsing.cf/TVBox/meowcf.json	内涵多条线路/持续维护	待认领	是
+## https://pqu.cn/Mr93fk	内涵多条线路/持续维护	待认领	是
+## https://freed.yuanhsing.cf/TVBox/meowcf.json	内涵多条线路/持续维护	待认领	是
+## https://dxawi.github.io/0/0.json	内涵多条线路/持续维护	待认领	是
+## https://pqu.cn/Mr93fk	内涵多条线路/持续维护	待认领	是
